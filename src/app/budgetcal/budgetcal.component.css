@@ -1,0 +1,31 @@
+h1 {
+  text-align: center;
+  font-family: "candara";
+  font-size: 28px;
+  font-style: italic;
+}
+.total-budget {
+  align-items: center;
+  background-color: lavender;
+  display: flex;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  height: 68px;
+  justify-content: center;
+}
+.total-budget-section {
+  display: flex;
+  background: rgb(22, 20, 20);
+  height: 250px;
+  align-items: center;
+  justify-content: center;
+}
+h2 {
+  font-size: 58px;
+  font-weight: 300;
+  color: green;
+}
+.add-item-container {
+  width: 680px;
+}
